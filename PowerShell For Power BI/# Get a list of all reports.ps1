@@ -1,4 +1,4 @@
-# Get a list of all reports 
+# Get a list of all reports in a workspace
 
 connect-PowerBIServiceAccount
 
